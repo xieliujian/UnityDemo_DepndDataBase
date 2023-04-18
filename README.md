@@ -1,0 +1,2 @@
+# UnityDemo_DepndDataBase
+json文件保存依懒文件的md5，用来判断是否需要重新生成数据
