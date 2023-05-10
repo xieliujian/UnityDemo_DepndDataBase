@@ -14,7 +14,7 @@ public class DependDatabaseTestEditor : Editor
         if (script == null)
             return;
 
-        if (GUILayout.Button("导出依懒文件"))
+        if (GUILayout.Button("导出依赖文件"))
         {
             var path = "Assets/Scenes/SampleScene_depend.json";
             var absPath = EditorUtils.AssetsPath2ABSPath(path);
